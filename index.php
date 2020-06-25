@@ -126,7 +126,7 @@
                             <input type="checkbox">Remember Me
                         </div>
                         <div class="form-group">
-                            <input type="submit" class="btn float-right login_btn" value="Login"/>
+                            <a href="view.html" class="btn float-right login_btn">Login </a>
                         </div>
                     </form>
                 </div>
